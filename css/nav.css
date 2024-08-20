@@ -1,11 +1,14 @@
 
-	#div1{
-		height: 50px;
-		background-color: white;
-		opacity: 0.9;
+    body{
+        background-image:url(/img/home_img.webp);
+      }
+    #div{
+		height: 70px;
+		background-color: rgb(255, 255, 255);
+		opacity: 0.5;
 	}
 	ul{
-		margin-left: 650px;
+		margin-left: 200px;
 	}
 	ul li{
 		list-style: none;
