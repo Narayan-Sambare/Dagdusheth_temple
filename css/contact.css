@@ -1,0 +1,58 @@
+.map{
+    align-items: center;
+    border: 5px solid black;
+    border-radius: 20px 20px;
+}
+input{
+    display: inline-block;
+    inline-size:50%;
+   padding: 5px;
+   border-radius: 0px  5px 5px 0px ;
+   border-top: none;
+   border-left: none;
+   border-right: none;
+}
+.btn{
+    border: 2px solid black;
+    background-color: rgb(242, 215, 37);
+    inline-size: 20%;
+    border-radius: 5px 5px;
+    font-weight: bold;
+    font-size: medium;
+}
+.btn:hover{
+    background: black;
+    color: white;
+}
+.contact1{
+    border-radius: 20px 0px;
+    margin-left: 50px;
+    background: #339999;
+    width: 500px;
+    text-align: center;
+    }
+.contact2{
+    
+    width: 500px;
+    height: 450px;
+    margin-left: 50%;
+    margin-top: -31%; 
+}
+#add{
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    background: white;
+}
+#add:hover{
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    border: 0px solid black;
+}
+
+#icon{
+    width: 5%;
+    margin-left: -10%;
+    margin-bottom: -8%;
+}
