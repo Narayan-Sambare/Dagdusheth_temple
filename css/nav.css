@@ -1,6 +1,8 @@
 nav {
 	height: 70px;
 	background: #191970;
+	position: fixed;
+	width: 100%;
 
 
 
