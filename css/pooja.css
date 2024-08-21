@@ -1,0 +1,97 @@
+
+.bgimg>img{
+    
+    height: 700px;
+}
+.card1{
+ display: block;
+    border: 1px solid black;
+    width: 30%;
+    height: 30%;
+    margin-top: 5px;
+    display: flexbox;
+}
+
+.card2{
+    
+    border: 1px solid black;
+    width: 30%;
+    height: 30%;
+    margin-left: 35%;
+    margin-top: -515px;
+}
+
+.card3{
+    
+    border: 1px solid black;
+    width: 30%;
+    height: 30%;
+    margin-left: 70%;
+    margin-top: -515px;
+}
+
+.card4{
+    
+    border: 1px solid black;
+    width: 30%;
+    height: 30%;
+    margin-top: 5%;
+}
+
+.card5{
+    
+    border: 1px solid black;
+    width: 30%;
+    height: 30%;
+    margin-left: 35%;
+    margin-top: -490px;
+}
+   
+
+
+.card6{
+    
+    border: 1px solid black;
+    width: 30%;
+    height: 30%;
+    margin-left: 70%;
+    margin-top: -490px;
+}
+
+.card7{
+    
+    border: 1px solid black;
+    width: 30%;
+    height: 30%;
+    margin-top: 5%;
+    
+}
+
+.card8{
+    
+    border: 1px solid black;
+    width: 30%;
+    height: 30%;
+    margin-left: 35%;
+    margin-top: -490px;
+    
+}
+
+.pooja{
+    font-size: 50px;
+}
+
+.schedule{
+    font-size: 50px;
+}
+
+#schedule2{
+    margin-left: 33%;
+    margin-top: -835px;
+}
+
+#schedule3{
+    margin-left: 66%;
+    margin-top: -720px;
+}
+
