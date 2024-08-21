@@ -1,5 +1,11 @@
 marquee{
     font-size: 30px;
     border: 1px solid black;
-    padding: 0%;
+	background: #191970;
+	
+    color:#FFD700 ;
+    
+}
+.bggallery>img{
+    height:700px;
 }
