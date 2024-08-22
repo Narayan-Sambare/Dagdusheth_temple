@@ -1,11 +1,8 @@
-nav {
+nav{
 	height: 70px;
 	background: #191970;
 	position: fixed;
 	width: 100%;
-
-
-
 }
 
 a {
@@ -13,7 +10,6 @@ a {
 	text-decoration: none;
 	color: #FFD700;
 	font-size: 21px;
-
 }
 
 a:hover {
@@ -23,8 +19,6 @@ a:hover {
 	border: 1px solid black;
 	border-radius: 5px 0px;
 	padding: 4px;
-
-
 }
 
 div>img{
@@ -35,8 +29,4 @@ div>img{
 	width: 15%;
 	margin-top: 1%;
 	height: 40px;
-
-
-
-
 }
