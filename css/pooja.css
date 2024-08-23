@@ -10,8 +10,22 @@
     display: inline-block;
     margin: 20px;
 }
+.button1 {
+  
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    background-color:  #FFD700 ;
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+   
+  }
+
+
 .pooja{
-    font-size: 50px;
+    margin-top: 3%;
 }
 .schedule{
     font-size: 50px;
