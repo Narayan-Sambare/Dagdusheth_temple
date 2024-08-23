@@ -12,7 +12,7 @@ nav{
 	font-size: 21px;
 }
 
-a:hover {
+.index:hover {
 
 	background: #f1f6aa;
 	color: black;
@@ -30,3 +30,11 @@ div>img{
 	margin-top: 1%;
 	height: 40px;
 }
+footer{
+	margin-top: 2%;
+	text-align: center;
+	background: #191970;
+	padding: 15px;
+	color: white;
+}
+

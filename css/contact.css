@@ -5,32 +5,45 @@
     margin-top: 5%;
 }
 input{
-    display: inline-block;
-    inline-size:50%;
+    
+   display: inline-block;
+   inline-size:55%;
    padding: 5px;
-   border-radius: 0px  5px 5px 0px ;
+   border-radius: 0px  5px 0px 5px ;
    border-top: none;
    border-left: none;
    border-right: none;
+   text-align: center;
+      margin-left: 10%;
+}
+textarea{
+    padding: 5px;
+   border-radius: 0px  5px 0px 5px ;
+   border-top: none;
+   border-left: none;
+   border-right: none;
+   text-align: center;
+   
 }
 .btn{
     border: 2px solid black;
-    background-color: rgb(242, 215, 37);
+    background-color: #6262c3;
     inline-size: 20%;
     border-radius: 5px 5px;
     font-weight: bold;
     font-size: medium;
+    margin-left: 35%;
 }
 .btn:hover{
-    background: black;
-    color: white;
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 .contact1{
     border-radius: 20px 0px;
     margin-left: 50px;
     background: #6262c3;
     width: 500px;
-    text-align: center;
+    
     }
 .contact2{
     
@@ -66,7 +79,12 @@ h3{
     margin-left: 2%;
 }
 
-#para{
-    margin-left: 55px;
+.para{
+    margin-left: 10%;
 
+}
+.ptag{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 17%;
+    
 }
