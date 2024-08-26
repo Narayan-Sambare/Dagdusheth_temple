@@ -10,17 +10,14 @@ nav{
 	text-decoration: none;
 	color: #FFD700;
 	font-size: 21px;
-	
-	
-}
+	}
 
 .index:hover {
-
 	background: #f1f6aa;
 	color: black;
-	border: 1px solid black;
-	border-radius: 5px 0px;
-	padding: 4px;
+	/* border: 1px solid black; */
+	/* border-radius: 5px 0px; */
+	/* padding: 4px; */
 }
 
 div>img{
