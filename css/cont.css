@@ -1,0 +1,102 @@
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-top: 8%;
+    justify-content: space-around;
+    
+}
+
+.item{
+    width: 40%;
+    height: 50%;
+
+    
+}
+
+#contact{
+    
+    border-radius: 10px;
+    margin-left: 50px;
+    background: #6262c3;
+    width: 30%;
+   
+}
+
+.input{
+    inline-size:55%;
+    padding: 10px;
+    border-radius: 0px  5px 0px 5px ;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    text-align: center;
+    margin: 3%;
+    font-size: large;
+    margin-left: 20%;
+ }
+.input1{
+    
+    display: inline-block;
+    inline-size:55%;
+    padding: 10px;
+    border-radius: 0px  5px 0px 5px ;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    text-align: center;
+    margin: 3%;
+    font-size: large;
+    margin-left: 20%;
+ }
+.input2{
+    
+    display: inline-block;
+    inline-size:55%;
+    padding: 10px;
+    border-radius: 0px  5px 0px 5px ;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    text-align: center;
+    margin: 3%;
+    font-size: large;
+    margin-left: 20%;
+ }
+
+ .map{
+    align-items: center;
+    
+    border-radius: 20px 20px;
+    margin-top: 5%;
+}
+
+#icon{
+    width: 5%;
+    margin-left: -10%;
+    margin-bottom: -3%;
+}
+h3{
+    margin-top: -2%;
+    margin-left: -3%;
+}
+
+.para{
+    margin-left: -1%;
+    margin-bottom: -3%;
+    margin-top: -3%;
+    font-size: 17px;
+
+}
+.para a{
+    text-decoration: none;
+    color: rgb(82, 17, 186);
+    
+}
+.para a:hover{
+    text-decoration: none;
+    color: rgb(255, 14, 14);
+    font-size: 20px;
+    
+}

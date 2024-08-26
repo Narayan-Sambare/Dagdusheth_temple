@@ -1,21 +1,14 @@
-.lord1{
-    padding-top: 5%;
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
-div>img{
-    width: 40%;
-    /* height: 500px; */
-    display: inline-block;
-}
-
-
 .lord{
-  
-    margin-left: 42%;
-    margin-top: -32%;
-    
-    width: 55%;
-    height: 50%;
+    width: 40%;
+    height: 40%;
+    margin: 20px;
 }
+
 .button1 {
   
     padding-left: 4%;
@@ -28,6 +21,4 @@ div>img{
     font-weight: bold;
    
   }
-.btn{
-    border: 1px solid black;
-}
+

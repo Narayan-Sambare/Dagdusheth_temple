@@ -2,12 +2,18 @@
     
     height: 700px;
 }*/
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+   justify-content: space-evenly;
+
+}
 .card1{
-    display: block;
+    
     border: 1px solid black;
     width: 30%;
     height: 30%;
-    display: inline-block;
     margin: 20px;
 }
 .button1 {
@@ -30,10 +36,19 @@
 .schedule{
     font-size: 50px;
 }
+.shedule-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+   justify-content: space-evenly;
+
+}
 #schedule1{
-    
-    display: inline-block;
+    /* width: 30%;
+    height: 30%; */
     margin: 20px;
+   
+   
 }
 
 
