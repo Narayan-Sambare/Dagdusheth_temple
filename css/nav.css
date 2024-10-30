@@ -41,3 +41,8 @@ footer{
 	color: white;
 }
 
+.btnback a{
+    color: #212ff5;
+    text-decoration: none;
+    background-color: #c2c1c1;
+}
